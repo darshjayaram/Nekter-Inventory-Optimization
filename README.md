@@ -24,10 +24,6 @@ It combines SQL for data storage, Python for data processing and modeling, and m
     - create_tables.sql – creates the database tables
     - insert_data.sql – inserts sample or test data
     - queries.sql – SQL queries used for analysis
-- notebooks
-    - 01_data_exploration.ipynb – exploring the sales and ingredient data
-    - 02_feature_engineering.ipynb – creating new features like day of week and rolling averages
-    - 03_modeling.ipynb – training and testing the machine learning models
 - scripts
     - data_prep.py – cleans and prepares the data
     - feature_engineering.py – builds the features for the model
@@ -35,4 +31,4 @@ It combines SQL for data storage, Python for data processing and modeling, and m
     - predict_orders.py – calculates how much of each ingredient to order
 - reports
     - order_recommendations.xlsx – final order suggestions
-    - waste_analysis.csv – waste and savings analysis
+    - impact_analysis.csv – waste and savings analysis
